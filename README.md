@@ -1,12 +1,12 @@
 # OOP2024Portfolio-ad19am
 
-#Adam Shaban 
+Adam Shaban 
 
 4CSF
 
 Patrick Ingham
 
-#Work Schedule
+Work Schedule
 
 1 Getting Started
 committed by 5th February
